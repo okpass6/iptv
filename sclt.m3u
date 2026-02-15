@@ -66,7 +66,7 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221227403/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",峨眉电影频道
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227942/index.m3u8
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",CDTV-1
-http://119.4.91.10:80/PLTV/88888888/224/3221227495/index.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227495/index.m3u8
 #EXTINF:-1 tvg-id="2065" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川",CDTV-2
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227949/index.m3u8
 #EXTINF:-1 tvg-id="2066" tvg-name="CDTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="四川",CDTV-3
