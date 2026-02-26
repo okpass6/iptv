@@ -33,6 +33,16 @@ http://192.168.88.1:4000/udp/239.94.0.38:5140
 http://192.168.88.1:4000/udp/239.94.0.23:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17高清
 http://192.168.88.1:4000/udp/239.94.0.39:5140
+#EXTINF:-1,鳳凰衛視資訊台
+https://ytb.178.indevs.in/?id=fN9uYWCjQaw
+#EXTINF:-1,中天新闻
+https://ytb.178.indevs.in/?id=vr3XyVCR4T0
+#EXTINF:-1,TVBS
+https://tv.iill.top/4gtv/media-live073
+#EXTINF:-1,TVBS1
+https://ytb.178.indevs.in/?id=o_-hSMgpAzs
+#EXTINF:-1,TVBS新聞
+https://tv.iill.top/4gtv/media-live072
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
 http://192.168.88.1:4000/udp/239.94.0.20:5140
 #EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="未分类",爱上4K专区
