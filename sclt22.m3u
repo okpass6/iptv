@@ -36,9 +36,11 @@ http://192.168.2.1:4000/rtp/239.0.0.152:5140
 #EXTINF:-1,鳳凰衛視資訊台
 https://ytb.178.indevs.in/?id=fN9uYWCjQaw
 #EXTINF:-1,中天新闻
-https://tv.iill.top/4gtv/4gtv-4gtv074
+https://ytb.178.indevs.in/?id=vr3XyVCR4T0
 #EXTINF:-1,TVBS
 https://tv.iill.top/4gtv/media-live073
+#EXTINF:-1,TVBS1
+https://ytb.178.indevs.in/?id=o_-hSMgpAzs
 #EXTINF:-1,TVBS新聞
 https://tv.iill.top/4gtv/media-live072
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="超高清频道",CCTV-4K 50P
