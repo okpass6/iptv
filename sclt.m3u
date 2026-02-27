@@ -43,6 +43,10 @@ https://tv.iill.top/4gtv/media-live073
 https://ytb.178.indevs.in/?id=o_-hSMgpAzs
 #EXTINF:-1,TVBS新聞
 https://tv.iill.top/4gtv/media-live072
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="超高清频道",东方卫视4K 50P
+https://tv.iill.top/kdf/2030
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="超高清频道",浙江卫视4K 50P
+http://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227986/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影高清
