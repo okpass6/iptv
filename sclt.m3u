@@ -33,16 +33,10 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221227933/index.m3u8
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227493/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227577/index.m3u8
-#EXTINF:-1,鳳凰衛視資訊台
-https://ytb.178.indevs.in/?id=fN9uYWCjQaw
 #EXTINF:-1,中天新闻
 https://tv.iill.top/4gtv/4gtv-4gtv009
-#EXTINF:-1,中天新闻1
-https://ytb.178.indevs.in/?id=vr3XyVCR4T0
 #EXTINF:-1,TVBS
 https://tv.iill.top/4gtv/media-live073
-#EXTINF:-1,TVBS1
-https://ytb.178.indevs.in/?id=o_-hSMgpAzs
 #EXTINF:-1,TVBS新聞
 https://tv.iill.top/4gtv/media-live072
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="超高清频道",东方卫视4K 50P
