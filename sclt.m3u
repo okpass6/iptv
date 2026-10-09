@@ -37,7 +37,7 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221227577/index.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227986/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227984/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CHC高清影院高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",CHC高清影院高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227981/index.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227371/index.m3u8
@@ -51,13 +51,13 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221227413/index.m3u8
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227411/index.m3u8
 #EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="四川",SCTV-5 影视文艺
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227409/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SCTV-7 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",SCTV-7 高清
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227405/index.m3u8
 #EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="四川",SCTV-8 科教
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227936/index.m3u8
 #EXTINF:-1 tvg-id="2061" tvg-name="SCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv9.png" group-title="四川",SCTV-9 四川乡村
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227403/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",峨眉电影频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",峨眉电影频道
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227942/index.m3u8
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",CDTV-1
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227495/index.m3u8
@@ -71,7 +71,7 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221227951/index.m3u8
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227587/index.m3u8
 #EXTINF:-1 tvg-id="2069" tvg-name="CDTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="四川",CDTV-6
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227953/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CDTV-8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",CDTV-8
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227920/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227369/index.m3u8
@@ -147,7 +147,7 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221227181/index.m3u8
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227139/index.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227131/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安多卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",安多卫视
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227121/index.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227934/index.m3u8
