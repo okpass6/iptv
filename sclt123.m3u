@@ -53,6 +53,16 @@ http://192.168.123.1:4000/rtp/239.0.0.206:5140
 http://192.168.123.1:4000/rtp/239.0.0.207:5140
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视4K 50P
 http://192.168.123.1:4000/rtp/239.0.0.208:5140
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视4K
+http://192.168.123.1:4000/rtp/239.0.0.219:5140
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视4K
+http://192.168.123.1:4000/rtp/239.0.0.220:5140
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视4K
+http://192.168.123.1:4000/rtp/239.0.0.221:5140
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视4K
+http://192.168.123.1:4000/rtp/239.0.0.222:5140
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视4K
+http://192.168.123.1:4000/rtp/239.0.0.223:5140
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K 25P
 http://192.168.123.1:4000/rtp/239.0.0.184:5140
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视4K 25P
